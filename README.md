@@ -2,6 +2,6 @@
 
 Crated Corona-19 tracker with current information on cases, deaths, and people recovered using 3rd party API and React
 
-![](Top.png)
+![](top.png)
 
-![](Middle.png)
+![](middle.png)
